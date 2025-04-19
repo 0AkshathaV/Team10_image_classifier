@@ -4,3 +4,18 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.models
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMG_SIZE = (128, 128)
+BATCH_SIZE = 32
