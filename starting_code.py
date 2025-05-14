@@ -16,7 +16,6 @@ from tensorflow.keras.models
 
 
 
-
 IMG_SIZE = (128, 128)
 BATCH_SIZE = 32
 EPOCHS = 20
